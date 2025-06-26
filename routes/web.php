@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactoController;
 
@@ -41,8 +42,19 @@ Route::get('/login', function () {
 Route::get('/register', function () {
     return redirect('/');  // Redirige a la página de inicio
 });
+Route::get('/terminos-y-condiciones', function () {
+    return view('terminos');
+})->name('terminos');
+
+Route::get('/politicas-de-privacidad', function () {
+    return view('politicas');
+})->name('politicas');
+
 
 // Ruta de fallback para redirigir a la página de inicio
 Route::fallback(function () {
     return redirect('/');
 });
+
+
+

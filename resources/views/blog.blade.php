@@ -14,7 +14,7 @@
         <article class="position-relative h-100">
 
           <div class="post-img position-relative overflow-hidden">
-            <img src="assets/img/blog/web-development.jpg" class="img-fluid" alt="Desarrollo de Aplicaciones Web">
+            <img src="assets/img/blog/web.png" class="img-fluid" alt="Desarrollo de Aplicaciones Web">
             <span class="post-date">Abril 10</span>
           </div>
 
@@ -38,7 +38,7 @@
 
             <hr>
 
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <a href="blog-details.html" class="readmore stretched-link"><span>Leer mas</span><i class="bi bi-arrow-right"></i></a>
 
           </div>
 
@@ -49,7 +49,7 @@
         <article class="position-relative h-100">
 
           <div class="post-img position-relative overflow-hidden">
-            <img src="assets/img/blog/mobile-development.jpg" class="img-fluid" alt="Desarrollo de Aplicaciones Móviles">
+            <img src="assets/img/blog/movil.png" class="img-fluid" alt="Desarrollo de Aplicaciones Móviles">
             <span class="post-date">Abril 15</span>
           </div>
 
@@ -73,7 +73,7 @@
 
             <hr>
 
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <a href="blog-details.html" class="readmore stretched-link"><span>Leer mas</span><i class="bi bi-arrow-right"></i></a>
 
           </div>
 
@@ -84,7 +84,7 @@
         <article class="position-relative h-100">
 
           <div class="post-img position-relative overflow-hidden">
-            <img src="assets/img/blog/ux-ui-design.jpg" class="img-fluid" alt="Diseño UX/UI">
+            <img src="assets/img/blog/ux.png" class="img-fluid" alt="Diseño UX/UI">
             <span class="post-date">Abril 20</span>
           </div>
 
@@ -108,7 +108,7 @@
 
             <hr>
 
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <a href="blog-details.html" class="readmore stretched-link"><span>Leer mas</span><i class="bi bi-arrow-right"></i></a>
 
           </div>
 
@@ -119,7 +119,7 @@
         <article class="position-relative h-100">
 
           <div class="post-img position-relative overflow-hidden">
-            <img src="assets/img/blog/consulting-analysis.jpg" class="img-fluid" alt="Consultoría y Análisis de Requerimientos">
+            <img src="assets/img/blog/consultoria.png" class="img-fluid" alt="Consultoría y Análisis de Requerimientos">
             <span class="post-date">Mayo 02</span>
           </div>
 
@@ -143,7 +143,7 @@
 
             <hr>
 
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <a href="blog-details.html" class="readmore stretched-link"><span>Leer mas</span><i class="bi bi-arrow-right"></i></a>
 
           </div>
 
@@ -154,7 +154,7 @@
         <article class="position-relative h-100">
 
           <div class="post-img position-relative overflow-hidden">
-            <img src="assets/img/blog/support-maintenance.jpg" class="img-fluid" alt="Mantenimiento y Soporte">
+            <img src="assets/img/blog/mantenimiento.png" class="img-fluid" alt="Mantenimiento y Soporte">
             <span class="post-date">Mayo 10</span>
           </div>
 
@@ -178,7 +178,7 @@
 
             <hr>
 
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <a href="blog-details.html" class="readmore stretched-link"><span>Leer mas</span><i class="bi bi-arrow-right"></i></a>
 
           </div>
 
@@ -189,7 +189,7 @@
         <article class="position-relative h-100">
 
           <div class="post-img position-relative overflow-hidden">
-            <img src="assets/img/blog/ecommerce-integration.jpg" class="img-fluid" alt="Ecommerce">
+            <img src="assets/img/blog/tienda.png" class="img-fluid" alt="Ecommerce">
             <span class="post-date">Mayo 20</span>
           </div>
 
@@ -213,7 +213,7 @@
 
             <hr>
 
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            <a href="blog-details.html" class="readmore stretched-link"><span>Leer mas</span><i class="bi bi-arrow-right"></i></a>
 
           </div>
 

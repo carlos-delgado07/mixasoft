@@ -187,62 +187,25 @@
 
 
 
-  {{-- PORTFOLIO --}}
-  <section id="portfolio" class="portfolio section py-5">
-    <div class="container">
-      <div class="section-title text-center mb-5">
-        <h2>Proyectos Destacados</h2>
-        <p>Algunos de nuestros desarrollos más recientes</p>
-      </div>
-      <div class="row g-4">
-        @foreach(range(1, 6) as $i)
-        <div class="col-md-4">
-          <div class="card shadow">
-            <img src="{{ asset("assets/img/portfolio/portfolio-$i.jpg") }}" class="card-img-top" alt="Proyecto {{ $i }}">
-            <div class="card-body">
-              <h5 class="card-title">Proyecto #{{ $i }}</h5>
-              <p class="card-text">Aplicación desarrollada para [cliente], enfocada en [objetivo breve].</p>
-            </div>
-          </div>
-        </div>
-        @endforeach
-      </div>
-    </div>
-  </section>
-
-  {{-- TESTIMONIOS --}}
-<section id="testimonials" class="testimonials section bg-light py-5">
+{{-- PORTFOLIO --}}
+<section id="portfolio" class="portfolio section py-5">
   <div class="container">
     <div class="section-title text-center mb-5">
-      <h2 class="text-uppercase">Lo que dicen nuestros clientes</h2>
-      <p class="lead">Nuestro compromiso y dedicación se reflejan en las palabras de quienes confían en nosotros.</p>
+      <h2>Proyectos Destacados</h2>
+      <p>Algunos de nuestros desarrollos más recientes</p>
     </div>
-    <div class="row justify-content-center">
-      @foreach([
-        ['name' => 'Carlos López', 'role' => 'CEO en FinTechX', 'text' => 'Trixasoft superó nuestras expectativas. ¡Un equipo muy profesional!'],
-        ['name' => 'Ana Gómez', 'role' => 'CTO en AgroData', 'text' => 'Nos ayudaron a transformar nuestro negocio digitalmente en tiempo récord.'],
-        ['name' => 'Luis Martínez', 'role' => 'Gerente TI en MedixSoft', 'text' => 'Excelente servicio, soporte técnico y calidad de código.']
-      ] as $testimony)
-      <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="200">
-        <div class="card shadow-lg border-0 rounded-lg p-4">
-          <div class="card-body">
-            <p class="fst-italic text-center">“{{ $testimony['text'] }}”</p>
-            <div class="d-flex align-items-center justify-content-center mt-3">
-              <div class="avatar me-3">
-                <img src="https://via.placeholder.com/60" alt="avatar" class="rounded-circle img-fluid">
-              </div>
-              <div>
-                <h6 class="mb-0">{{ $testimony['name'] }}</h6>
-                <small class="text-muted">{{ $testimony['role'] }}</small>
-              </div>
-            </div>
-          </div>
+    <div class="row g-4">
+      @foreach(range(1, 9) as $i)
+      <div class="col-md-4">
+        <div class="shadow">
+          <img src="{{ asset("assets/img/masonry-portfolio/proyecto$i.png") }}" class="img-fluid" alt="Proyecto {{ $i }}">
         </div>
       </div>
       @endforeach
     </div>
   </div>
 </section>
+
 
 <!-- Agregar Animaciones AOS -->
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>

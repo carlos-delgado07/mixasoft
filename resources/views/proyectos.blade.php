@@ -21,73 +21,107 @@
                 </ul><!-- End Portfolio Filters -->
 
                 <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
-  <!-- Proyecto 1: Aplicación Móvil - FitApp -->
-  <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-    <img src="assets/img/masonry-portfolio/masonry-portfolio-1.jpg" class="img-fluid" alt="FitApp">
-    <div class="portfolio-info">
-      <h4>FitApp</h4>
-      <p>Una app para entrenamientos y dietas personalizadas.</p>
-      <a href="assets/img/masonry-portfolio/fitapp.jpg" title="FitApp" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-      <a href="portfolio-details.html" title="Más detalles" class="details-link"><i class="bi bi-link-45deg"></i></a>
-    </div>
-  </div>
 
-  <!-- Proyecto 2: Sitio Web - ShopMaster -->
-  <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-    <img src="assets/img/masonry-portfolio/shopmaster.jpg" class="img-fluid" alt="ShopMaster">
-    <div class="portfolio-info">
-      <h4>ShopMaster</h4>
-      <p>Tienda en línea para compras fáciles y seguras.</p>
-      <a href="assets/img/masonry-portfolio/shopmaster.jpg" title="ShopMaster" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-      <a href="portfolio-details.html" title="Más detalles" class="details-link"><i class="bi bi-link-45deg"></i></a>
-    </div>
-  </div>
+                    <!-- Proyecto 1 -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+                        <img src="assets/img/masonry-portfolio/proyecto1.png" class="img-fluid" alt="Proyecto 1">
+                        <div class="portfolio-info">
+                            <h4>Proyecto 1</h4>
+                            <p>Descripción del Proyecto 1.</p>
+                            <a href="assets/img/masonry-portfolio/proyecto1.png" class="glightbox preview-link" title="Proyecto 1" data-gallery="portfolio-gallery-app"><i class="bi bi-zoom-in"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="Más detalles"><i class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
 
-  <!-- Proyecto 3: Branding - Fresh Bites -->
-  <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-    <img src="assets/img/masonry-portfolio/freshbites.jpg" class="img-fluid" alt="Fresh Bites">
-    <div class="portfolio-info">
-      <h4>Fresh Bites</h4>
-      <p>Rediseño completo de la marca para una tienda de alimentos frescos.</p>
-      <a href="assets/img/masonry-portfolio/freshbites.jpg" title="Fresh Bites" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-      <a href="portfolio-details.html" title="Más detalles" class="details-link"><i class="bi bi-link-45deg"></i></a>
-    </div>
-  </div>
+                    <!-- Proyecto 2 -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+                        <img src="assets/img/masonry-portfolio/proyecto2.png" class="img-fluid" alt="Proyecto 2">
+                        <div class="portfolio-info">
+                            <h4>Proyecto 2</h4>
+                            <p>Descripción del Proyecto 2.</p>
+                            <a href="assets/img/masonry-portfolio/proyecto2.png" class="glightbox preview-link" title="Proyecto 2" data-gallery="portfolio-gallery-product"><i class="bi bi-zoom-in"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="Más detalles"><i class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
 
-  <!-- Proyecto 4: Aplicación Móvil - MealPlanner -->
-  <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-    <img src="assets/img/masonry-portfolio/mealplanner.jpg" class="img-fluid" alt="MealPlanner">
-    <div class="portfolio-info">
-      <h4>MealPlanner</h4>
-      <p>Planifica tus comidas saludables con un seguimiento fácil.</p>
-      <a href="assets/img/masonry-portfolio/mealplanner.jpg" title="MealPlanner" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-      <a href="portfolio-details.html" title="Más detalles" class="details-link"><i class="bi bi-link-45deg"></i></a>
-    </div>
-  </div>
+                    <!-- Proyecto 3 -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+                        <img src="assets/img/masonry-portfolio/proyecto3.png" class="img-fluid" alt="Proyecto 3">
+                        <div class="portfolio-info">
+                            <h4>Proyecto 3</h4>
+                            <p>Descripción del Proyecto 3.</p>
+                            <a href="assets/img/masonry-portfolio/proyecto3.png" class="glightbox preview-link" title="Proyecto 3" data-gallery="portfolio-gallery-branding"><i class="bi bi-zoom-in"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="Más detalles"><i class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
 
-  <!-- Proyecto 5: Sitio Web - Travel Diaries -->
-  <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-    <img src="assets/img/masonry-portfolio/travel-diaries.jpg" class="img-fluid" alt="Travel Diaries">
-    <div class="portfolio-info">
-      <h4>Travel Diaries</h4>
-      <p>Blog interactivo para compartir experiencias de viaje.</p>
-      <a href="assets/img/masonry-portfolio/travel-diaries.jpg" title="Travel Diaries" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-      <a href="portfolio-details.html" title="Más detalles" class="details-link"><i class="bi bi-link-45deg"></i></a>
-    </div>
-  </div>
+                    <!-- Proyecto 4 -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+                        <img src="assets/img/masonry-portfolio/proyecto4.png" class="img-fluid" alt="Proyecto 4">
+                        <div class="portfolio-info">
+                            <h4>Proyecto 4</h4>
+                            <p>Descripción del Proyecto 4.</p>
+                            <a href="assets/img/masonry-portfolio/proyecto4.png" class="glightbox preview-link" title="Proyecto 4" data-gallery="portfolio-gallery-web"><i class="bi bi-zoom-in"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="Más detalles"><i class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
 
-  <!-- Proyecto 6: Branding - TechNext -->
-  <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-    <img src="assets/img/masonry-portfolio/technext.jpg" class="img-fluid" alt="TechNext">
-    <div class="portfolio-info">
-      <h4>TechNext</h4>
-      <p>Rediseño de marca para una empresa tecnológica.</p>
-      <a href="assets/img/masonry-portfolio/technext.jpg" title="TechNext" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-      <a href="portfolio-details.html" title="Más detalles" class="details-link"><i class="bi bi-link-45deg"></i></a>
-    </div>
-  </div>
-</div>
+                    <!-- Proyecto 5 -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-mobile-app">
+                        <img src="assets/img/masonry-portfolio/proyecto5.png" class="img-fluid" alt="Proyecto 5">
+                        <div class="portfolio-info">
+                            <h4>Proyecto 5</h4>
+                            <p>Descripción del Proyecto 5.</p>
+                            <a href="assets/img/masonry-portfolio/proyecto5.png" class="glightbox preview-link" title="Proyecto 5" data-gallery="portfolio-gallery-mobile"><i class="bi bi-zoom-in"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="Más detalles"><i class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
 
+                    <!-- Proyecto 6 -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+                        <img src="assets/img/masonry-portfolio/proyecto6.png" class="img-fluid" alt="Proyecto 6">
+                        <div class="portfolio-info">
+                            <h4>Proyecto 6</h4>
+                            <p>Descripción del Proyecto 6.</p>
+                            <a href="assets/img/masonry-portfolio/proyecto6.png" class="glightbox preview-link" title="Proyecto 6" data-gallery="portfolio-gallery-app"><i class="bi bi-zoom-in"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="Más detalles"><i class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
+
+                    <!-- Proyecto 7 -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+                        <img src="assets/img/masonry-portfolio/proyecto7.png" class="img-fluid" alt="Proyecto 7">
+                        <div class="portfolio-info">
+                            <h4>Proyecto 7</h4>
+                            <p>Descripción del Proyecto 7.</p>
+                            <a href="assets/img/masonry-portfolio/proyecto7.png" class="glightbox preview-link" title="Proyecto 7" data-gallery="portfolio-gallery-product"><i class="bi bi-zoom-in"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="Más detalles"><i class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
+
+                    <!-- Proyecto 8 -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+                        <img src="assets/img/masonry-portfolio/proyecto8.png" class="img-fluid" alt="Proyecto 8">
+                        <div class="portfolio-info">
+                            <h4>Proyecto 8</h4>
+                            <p>Descripción del Proyecto 8.</p>
+                            <a href="assets/img/masonry-portfolio/proyecto8.png" class="glightbox preview-link" title="Proyecto 8" data-gallery="portfolio-gallery-branding"><i class="bi bi-zoom-in"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="Más detalles"><i class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
+
+                    <!-- Proyecto 9 -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-mobile-app">
+                        <img src="assets/img/masonry-portfolio/proyecto9.png" class="img-fluid" alt="Proyecto 9">
+                        <div class="portfolio-info">
+                            <h4>Proyecto 9</h4>
+                            <p>Descripción del Proyecto 9.</p>
+                            <a href="assets/img/masonry-portfolio/proyecto9.png" class="glightbox preview-link" title="Proyecto 9" data-gallery="portfolio-gallery-mobile"><i class="bi bi-zoom-in"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="Más detalles"><i class="bi bi-link-45deg"></i></a>
+                        </div>
+                    </div>
+
+                </div><!-- End Portfolio Items -->
 
             </div>
 
